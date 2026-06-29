@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
