@@ -6,10 +6,10 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             xor1 ^= nums[i];
-            xor2 ^= i;
+            xor2 ^= i+1;
         }
 
-        xor2 ^= n;  // include the last number
+        
 
         return xor1 ^ xor2;
     }
