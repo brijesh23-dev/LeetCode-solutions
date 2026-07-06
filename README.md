@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
