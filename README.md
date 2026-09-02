@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0322-coin-change) |
 ## Matrix
 |  |
 | ------- |
@@ -68,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0912-sort-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
