@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0048-rotate-image) |
+| [1672-richest-customer-wealth](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
