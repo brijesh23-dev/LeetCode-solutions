@@ -1,19 +1,16 @@
 class Solution {
     public int maximumWealth(int[][] accounts) {
+
         int maxWealth = 0;
-
         for (int i = 0; i < accounts.length; i++) {
-            int currentCustomerWealth = 0;
-
+            int currWealth = 0;
             for (int j = 0; j < accounts[i].length; j++) {
-                currentCustomerWealth += accounts[i][j];
+                currWealth += accounts[i][j];
             }
-
-            if (currentCustomerWealth > maxWealth) {
-                maxWealth = currentCustomerWealth;
+            if (currWealth > maxWealth) {
+                maxWealth = currWealth;
             }
         }
-
         return maxWealth;
     }
 }
