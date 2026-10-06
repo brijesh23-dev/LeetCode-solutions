@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0322-coin-change) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
