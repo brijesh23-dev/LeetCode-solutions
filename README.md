@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0136-single-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
