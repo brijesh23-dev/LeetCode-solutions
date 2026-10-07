@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -116,5 +118,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
