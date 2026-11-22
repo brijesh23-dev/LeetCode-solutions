@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0912-sort-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/brijesh23-dev/LeetCode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
